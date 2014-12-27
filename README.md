@@ -4,7 +4,8 @@ Octoalpha
 Octoalpha is a minimal, responsive theme for Octopress. 
 
 Forked from classic octopress theme.
-Inspired by [Alpha](http://html5up.net/alpha) Theme on http://html5up.net
+
+Inspired by [Alpha](http://html5up.net/alpha) theme html5up.
 
 ##Install
 
